@@ -9,7 +9,11 @@
         "title": "Bara Core"
       },
       "api": {
-        "title": "API References"
+        "title": "About",
+        "sidebar_label": "About"
+      },
+      "core/installation": {
+        "title": "Installation"
       },
       "doc2": {
         "title": "document number 2"
