@@ -46,6 +46,9 @@
     "Explore|no description given": "Tìm Hiểu",
     "Created For Creating|tag line": "Tạo Ra Để Sáng Tạo",
     "Getting Started|no description given": "Bắt Đầu Ngay",
+    "RFP make your application code more readable, extensible, and maintainable! Let's focus on the business logic and new features, Bara will take care the rest from beginning to the end of development cycle.|project main feature": "RFP make your application code more readable, extensible, and maintainable! Let's focus on the business logic and new features, Bara will take care the rest from beginning to the end of development cycle.",
+    "Coding like a talking in live, enjoy it instead of get your mood down everytime debugging.|no description given": "Coding like a talking in live, enjoy it instead of get your mood down everytime debugging.",
+    "Everything is a pure function. It is testable, extensible!|no description given": "Everything is a pure function. It is testable, extensible!",
     "Help Translate|recruit community translators for your project": "Help Translate",
     "Edit this Doc|recruitment message asking to edit the doc source": "Edit",
     "Translate this Doc|recruitment message asking to translate the docs": "Translate"

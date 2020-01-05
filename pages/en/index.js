@@ -104,8 +104,15 @@ class Index extends React.Component {
         className="productShowcaseSection paddingBottom"
         style={{ textAlign: "center" }}
       >
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
+        <h2>Reactive Functional Programming</h2>
+        <MarkdownBlock>
+          <translate desc="project main feature">
+            RFP make your application code more readable, extensible, and
+            maintainable! Let's focus on the business logic and new features,
+            Bara will take care the rest from beginning to the end of
+            development cycle.
+          </translate>
+        </MarkdownBlock>
       </div>
     );
 
@@ -113,13 +120,15 @@ class Index extends React.Component {
       <Block id="try">
         {[
           {
-            content:
-              "To make your landing page more attractive, use illustrations! Check out " +
-              "[**unDraw**](https://undraw.co/) which provides you with customizable illustrations which are free to use. " +
-              "The illustrations you see on this page are from unDraw.",
+            content: (
+              <translate>
+                Coding like a talking in live, enjoy it instead of get your mood
+                down everytime debugging.
+              </translate>
+            ),
             image: `${baseUrl}img/undraw_code_review.svg`,
             imageAlign: "left",
-            title: "Wonderful SVG Illustrations"
+            title: "Improve coding experience day by day."
           }
         ]}
       </Block>
@@ -157,16 +166,39 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
-            content: "This is the content of my feature",
-            image: `${baseUrl}img/undraw_react.svg`,
-            imageAlign: "top",
-            title: "Feature One"
-          },
-          {
-            content: "The content of my second feature",
+            content: <translate>Control the flow of business logic</translate>,
             image: `${baseUrl}img/undraw_operating_system.svg`,
             imageAlign: "top",
-            title: "Feature Two"
+            title: "Declarative"
+          },
+          {
+            content: (
+              <translate>Handling the JS event-based functional</translate>
+            ),
+            image: `${baseUrl}img/undraw_react.svg`,
+            imageAlign: "top",
+            title: "Reactive"
+          },
+          {
+            content: (
+              <translate>
+                Everything is a pure function. It is testable, extensible!
+              </translate>
+            ),
+            image: `${baseUrl}img/undraw_tweetstorm.svg`,
+            imageAlign: "top",
+            title: "Functional"
+          },
+          {
+            content: (
+              <translate>
+                Build application using Portion, each one present for a
+                pluggable module.
+              </translate>
+            ),
+            image: `${baseUrl}img/undraw_building_blocks.svg`,
+            imageAlign: "top",
+            title: "Portion"
           }
         ]}
       </Block>

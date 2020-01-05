@@ -53,6 +53,12 @@
     "Created For Creating|tag line": "Created For Creating",
     "Explore|no description given": "Explore",
     "Getting Started|no description given": "Getting Started",
+    "RFP make your application code more readable, extensible, and maintainable! Let's focus on the business logic and new features, Bara will take care the rest from beginning to the end of development cycle.|project main feature": "RFP make your application code more readable, extensible, and maintainable! Let's focus on the business logic and new features, Bara will take care the rest from beginning to the end of development cycle.",
+    "Coding like a talking in live, enjoy it instead of get your mood down everytime debugging.|no description given": "Coding like a talking in live, enjoy it instead of get your mood down everytime debugging.",
+    "Control the flow of business logic|no description given": "Control the flow of business logic",
+    "Handling the JS event-based functional|no description given": "Handling the JS event-based functional",
+    "Everything is a pure function. It is testable, extensible!|no description given": "Everything is a pure function. It is testable, extensible!",
+    "Build application using Portion, each one present for a pluggable module.|no description given": "Build application using Portion, each one present for a pluggable module.",
     "Help Translate|recruit community translators for your project": "Help Translate",
     "Edit this Doc|recruitment message asking to edit the doc source": "Edit",
     "Translate this Doc|recruitment message asking to translate the docs": "Translate"
