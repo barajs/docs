@@ -8,6 +8,7 @@
 const React = require('react');
 
 const CompLibrary = require('../../core/CompLibrary.js');
+const translate = require('../../server/translate.js').translate;
 
 const MarkdownBlock = CompLibrary.MarkdownBlock; /* Used to read markdown */
 const Container = CompLibrary.Container;
@@ -38,7 +39,7 @@ class HomeSplash extends React.Component {
     const ProjectTitle = () => (
       <h2 className="projectTitle">
         {siteConfig.title}
-        <small>{siteConfig.tagline}</small>
+        <small><translate desc="tag line">Created For Creating</translate></small>
       </h2>
     );
 
@@ -64,7 +65,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
+            <Button href="#try"><translate>Try It Out</translate></Button>
             <Button href={docUrl('introduction.html')}>Getting Started</Button>
           </PromoSection>
         </div>
@@ -207,5 +208,9 @@ class Index extends React.Component {
     );
   }
 }
+
+Index.defaultProps = {
+  language: 'en',
+};
 
 module.exports = Index;

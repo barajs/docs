@@ -26,7 +26,7 @@ const siteConfig = {
   // as the package.json file for now
   customDocsPath: path.basename(__dirname) + '/docs',
 
-  title: 'BaraJS - Created For Creating', // Title for your website.
+  title: 'BaraJS', // Title for your website.
   tagline: 'Created For Creating',
   url: 'https://barajs.dev', // Your website URL
   baseUrl: '/', // Base URL for your project */
