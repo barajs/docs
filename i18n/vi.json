@@ -18,8 +18,8 @@
         "title": "This is document number 3"
       },
       "introduction": {
-        "title": "BaraJS Introduction",
-        "sidebar_label": "Introduction"
+        "title": "Giới thiệu về BaraJS",
+        "sidebar_label": "Giới thiệu"
       }
     },
     "links": {
@@ -29,7 +29,7 @@
       "Blog": "Blog"
     },
     "categories": {
-      "Introduction": "Introduction",
+      "Introduction": "Giới thiệu",
       "Examples": "Examples",
       "API References": "API References"
     }
@@ -43,8 +43,9 @@
     "Stay up to date|no description given": "Stay up to date",
     "Need help?|no description given": "Need help?",
     "This project is maintained by a dedicated group of people.|statement made to reader": "This project is maintained by a dedicated group of people.",
-    "Try It Out|no description given": "Kiem Tra",
+    "Explore|no description given": "Tìm Hiểu",
     "Created For Creating|tag line": "Tạo Ra Để Sáng Tạo",
+    "Getting Started|no description given": "Bắt Đầu Ngay",
     "Help Translate|recruit community translators for your project": "Help Translate",
     "Edit this Doc|recruitment message asking to edit the doc source": "Edit",
     "Translate this Doc|recruitment message asking to translate the docs": "Translate"
