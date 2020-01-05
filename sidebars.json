@@ -5,8 +5,8 @@
       "api",
       {
         "type": "subcategory",
-        "label": "@barajs/core",
-        "ids": ["core/installation"]
+        "label": "Core Package",
+        "ids": ["core/installation", "core/app"]
       }
     ],
     "Examples": ["doc3"]

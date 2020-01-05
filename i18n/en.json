@@ -12,6 +12,9 @@
         "title": "About",
         "sidebar_label": "About"
       },
+      "core/app": {
+        "title": "App"
+      },
       "core/installation": {
         "title": "Installation"
       },

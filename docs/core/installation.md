@@ -3,8 +3,6 @@ id: installation
 title: Installation
 ---
 
-# Installation
-
 ```
 yarn add -E @barajs/core
 ```
