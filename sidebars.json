@@ -1,9 +1,7 @@
 {
   "docs": {
     "Introduction": ["introduction"],
+    "API References": ["api"],
     "Examples": ["doc3"]
-  },
-  "api-docs": {
-    "API References": ["api", "api-core"]
   }
 }
