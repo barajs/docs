@@ -1,7 +1,14 @@
 {
   "docs": {
     "Introduction": ["introduction"],
-    "API References": ["api"],
+    "API References": [
+      "api",
+      {
+        "type": "subcategory",
+        "label": "@barajs/core",
+        "ids": ["core/installation"]
+      }
+    ],
     "Examples": ["doc3"]
   }
 }
