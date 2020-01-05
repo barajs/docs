@@ -1,10 +1,9 @@
 {
   "docs": {
     "Introduction": ["introduction"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Examples": ["doc3"]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "api-docs": {
+    "API References": ["api", "api-core"]
   }
 }

@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/barajs/docs) 
+
 ![Docusaurus Logo](../.github/images/docusaurus.svg)
 
 # Docusaurus Example
