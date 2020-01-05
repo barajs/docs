@@ -19,19 +19,19 @@
       },
       "introduction": {
         "title": "Giới thiệu về BaraJS",
-        "sidebar_label": "Giới thiệu"
+        "sidebar_label": "Giới thiệu về BaraJS"
       }
     },
     "links": {
-      "Docs": "Docs",
+      "Docs": "Tài Liệu",
       "API": "API",
-      "Help": "Help",
+      "Help": "Trợ Giúp",
       "Blog": "Blog"
     },
     "categories": {
       "Introduction": "Giới thiệu",
-      "Examples": "Examples",
-      "API References": "API References"
+      "Examples": "Ví dụ",
+      "API References": "Tra cứu API"
     }
   },
   "pages-strings": {
