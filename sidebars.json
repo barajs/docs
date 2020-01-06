@@ -5,8 +5,13 @@
       "api",
       {
         "type": "subcategory",
-        "label": "Core Package",
+        "label": "Core",
         "ids": ["core/installation", "core/app"]
+      },
+      {
+        "type": "subcategory",
+        "label": "Formula",
+        "ids": ["formula/installation", "formula/object"]
       }
     ],
     "Examples": ["doc3"]
